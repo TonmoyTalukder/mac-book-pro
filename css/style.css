@@ -1,1 +1,10 @@
-/* No Custom Style Yet */
+/* AUTHOR: Tonmoy Talukder */
+
+/* Horizontal Line */
+.mac-book-horizontal-line {
+  height: 2px;
+  width: 90%;
+  border-width: 0;
+  color: black;
+  background-color: black;
+}
